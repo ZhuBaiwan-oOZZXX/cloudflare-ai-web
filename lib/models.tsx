@@ -25,8 +25,8 @@ const defaultLogo = (
 
 export const modelList: Model[] = [
   {
-    id: "@cf/moonshotai/kimi-k2.5",
-    name: "kimi-k2.5",
+    id: "@cf/moonshotai/kimi-k2.6",
+    name: "kimi-k2.6",
     logo: <KIMILogo />,
     type: "Text Generation",
     input: ["image"],
